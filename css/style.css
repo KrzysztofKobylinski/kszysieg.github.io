@@ -336,3 +336,34 @@ header.masthead p {
   margin-bottom: 1rem ;
   display: inline-block;
 }
+
+.red:hover {
+  color: #b03248 ;
+}
+
+.html5:hover {
+  color: #db361e ;
+}
+
+.css3:hover {
+  color: #1d31dd ;
+}
+
+.js:hover {
+  color: #f5db19 ;
+}
+.react:hover {
+  color: #53d2fa ;
+}
+.bootstrap:hover {
+  color: #442b6a ;
+}
+.sass:hover {
+  color: #c24a87 ;
+}
+.node:hover {
+  color: #73c71f ;
+}
+.git:hover {
+  color: #e93827 ;
+}
